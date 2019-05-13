@@ -1,2 +1,2 @@
-![Problem Statement](problemstatement.png "Problem Statement")
+![Problem Statement](problemstatement.PNG "Problem Statement")
 
